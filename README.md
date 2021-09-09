@@ -1,5 +1,8 @@
 # Test1
-## Modificación primer archivo README
+## Segunda modificación archivo README
+
+El siguiente código muestra la manera de crear un archivo readme, seguido de como adjuntarlo a nuestro repositorio, incluyendo el manejo de cambios y la subida del archivo al repositorio.
+
 ```
 echo "# Test1" >> README.md
 git init
